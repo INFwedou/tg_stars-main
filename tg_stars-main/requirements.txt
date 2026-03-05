@@ -4,7 +4,7 @@ python-dotenv
 httpx
 aiohttp
 apscheduler
-pytz
+pytz==2024.1
 tonutils
 requests
 beautifulsoup4
